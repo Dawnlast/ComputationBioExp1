@@ -1,0 +1,13 @@
+Description,Scientific Name,Max Score,Total Score,Query Cover,E value,Per. ident,Acc. Len,Accession  
+Danio rerio strain T5D chromosome 17,Danio rerio,58.1,58.1,1%,5e-04,92.68,53268933,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/CP068751.1?report=genbank&log$=nucltop&blast_rank=1&RID=X4T41P90014"",""CP068751.1"")"
+"Zebrafish DNA sequence from clone DKEY-178F2 in linkage group 17, complete sequence",Danio rerio,58.1,58.1,1%,5e-04,92.68,128661,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/CT025578.13?report=genbank&log$=nucltop&blast_rank=2&RID=X4T41P90014"",""CT025578.13"")"
+"Danio rerio strain Cooch Behar (CB) genome assembly, chromosome: 12",Danio rerio,57.2,57.2,0%,5e-04,100.00,44184125,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/LR812555.1?report=genbank&log$=nucltop&blast_rank=3&RID=X4T41P90014"",""LR812555.1"")"
+"Danio rerio genome assembly, chromosome: 17",Danio rerio,52.7,52.7,0%,0.023,94.29,54645068,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/LR812054.1?report=genbank&log$=nucltop&blast_rank=4&RID=X4T41P90014"",""LR812054.1"")"
+"Danio rerio genome assembly, chromosome: 17",Danio rerio,52.7,52.7,0%,0.023,94.29,51576499,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/LR812610.1?report=genbank&log$=nucltop&blast_rank=5&RID=X4T41P90014"",""LR812610.1"")"
+"Danio rerio strain Nadia (NA) genome assembly, chromosome: 17",Danio rerio,52.7,52.7,0%,0.023,94.29,54799276,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/LR812585.1?report=genbank&log$=nucltop&blast_rank=6&RID=X4T41P90014"",""LR812585.1"")"
+
+
+
+		
+
+

@@ -1,0 +1,17 @@
+Description,Scientific Name,Max Score,Total Score,Query Cover,E value,Per. ident,Acc. Len,Accession  
+"PREDICTED: Gallus gallus BRCA1 DNA repair associated (BRCA1), transcript variant X2, mRNA",Gallus gallus,291,494,13%,3e-75,71.20,6367,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/XM_046933199.1?report=genbank&log$=nucltop&blast_rank=1&RID=X4T0JH73014"",""XM_046933199.1"")"
+"PREDICTED: Gallus gallus BRCA1 DNA repair associated (BRCA1), transcript variant X1, mRNA",Gallus gallus,291,505,13%,3e-75,71.20,6370,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/XM_046933198.1?report=genbank&log$=nucltop&blast_rank=2&RID=X4T0JH73014"",""XM_046933198.1"")"
+"PREDICTED: Gallus gallus BRCA1 DNA repair associated (BRCA1), transcript variant X2, mRNA",Gallus gallus,291,494,13%,3e-75,71.20,6369,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/XM_046904314.1?report=genbank&log$=nucltop&blast_rank=3&RID=X4T0JH73014"",""XM_046904314.1"")"
+"PREDICTED: Gallus gallus BRCA1 DNA repair associated (BRCA1), transcript variant X1, mRNA",Gallus gallus,291,505,13%,3e-75,71.20,6372,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/XM_015299561.3?report=genbank&log$=nucltop&blast_rank=4&RID=X4T0JH73014"",""XM_015299561.3"")"
+"Gallus gallus BRCA1 DNA repair associated (BRCA1), mRNA",Gallus gallus,291,505,13%,3e-75,71.20,5560,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/NM_204169.1?report=genbank&log$=nucltop&blast_rank=5&RID=X4T0JH73014"",""NM_204169.1"")"
+Gallus gallus breed Huxu chromosome 27,Gallus gallus,75.2,296,4%,4e-10,81.58,6322964,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/CP100581.1?report=genbank&log$=nucltop&blast_rank=6&RID=X4T0JH73014"",""CP100581.1"")"
+"Gallus gallus genome assembly, chromosome: 27",Gallus gallus,75.2,296,4%,4e-10,81.58,6919342,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/OZ376331.1?report=genbank&log$=nucltop&blast_rank=7&RID=X4T0JH73014"",""OZ376331.1"")"
+"G.gallus genomic DNA repeat region, clone 10H7",Gallus gallus,64.4,64.4,1%,6e-07,75.00,95,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/X78616.1?report=genbank&log$=nucltop&blast_rank=8&RID=X4T0JH73014"",""X78616.1"")"
+Gallus gallus breed Huxu chromosome 5,Gallus gallus,62.6,231,2%,2e-06,74.47,59473047,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/CP100559.1?report=genbank&log$=nucltop&blast_rank=9&RID=X4T0JH73014"",""CP100559.1"")"
+"PREDICTED: Gallus gallus leucine rich repeat protein 1 (LRR1), transcript variant X2, mRNA",Gallus gallus,62.6,62.6,1%,2e-06,74.47,2444,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/XM_046919624.1?report=genbank&log$=nucltop&blast_rank=10&RID=X4T0JH73014"",""XM_046919624.1"")"
+
+
+
+		
+
+
